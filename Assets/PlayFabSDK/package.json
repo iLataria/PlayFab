@@ -1,0 +1,18 @@
+{
+	"name": "com.elito.playfab",
+	"version": "2.221.250912",
+	"displayName": "PlayFab package",
+	"description": "",
+	"unity": "2022.3",
+	"unityRelease": "56f1",
+	"documentationUrl": "",
+	"changelogUrl": "",
+	"dependencies": {
+
+	},
+
+	"author": {
+		"name": "Ilia_Lataria",
+		"email": "lataria.dev@gmail.com"
+	}
+}
